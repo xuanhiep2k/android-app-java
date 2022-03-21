@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trang chủ</string>
+    <string name="tab_text_1">Tất cả</string>
+    <string name="tab_text_2">Mới</string>
+    <string name="tab_text_3">Thời sự</string>
+    <string name="tab_text_4">Thể thao</string>
+</resources>
